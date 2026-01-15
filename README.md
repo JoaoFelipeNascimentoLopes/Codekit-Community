@@ -27,18 +27,26 @@ Como este repositório é focado na documentação do sistema, aqui estão os pi
 - **Frontend:** Tailwind CSS para uma interface responsiva, moderna e otimizada.
 - **Segurança:** Criptografia de senhas e respostas de segurança utilizando o algoritmo **Bcrypt** (`password_hash`).
 
-
-
 ---
 
 ## 📸 Demonstração Visual
 
-### 🌗 Modo Escuro & Interface de Usuário
-O sistema conta com um design moderno e minimalista, garantindo conforto visual em qualquer horário.
+### 🌗 Interface & Experiência do Usuário
+O sistema conta com um design moderno e minimalista, garantindo conforto visual em qualquer horário através do suporte nativo ao Modo Escuro.
 
-<img width="1352" height="640" alt="image" src="https://github.com/user-attachments/assets/8b23ee8f-09bd-4ad2-8bd8-d281a5e3aaf7" />
-<img width="1351" height="642" alt="image" src="https://github.com/user-attachments/assets/ead3aa46-f3d9-44f2-8ec2-9427fd76c87e" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/8b23ee8f-09bd-4ad2-8bd8-d281a5e3aaf7" alt="Home Page"></td>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/ead3aa46-f3d9-44f2-8ec2-9427fd76c87e" alt="Interface Dark"></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/a6378c4c-0b4e-4f33-9e66-ded1ef01ba2d" alt="Visualização de Código"></td>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/5d1c6ffd-b3f7-4947-a837-0ec74e11ce80" alt="Perfil do Usuário"></td>
+    </tr>
+  </table>
+  <p><i>Capturas de tela demonstrando a Home, o sistema de filtros, o Visualizador de Código e o Perfil do Desenvolvedor.</i></p>
+</div>
 
 ---
 
