@@ -45,7 +45,7 @@ O sistema conta com um design moderno e minimalista, garantindo conforto visual 
       <td width="50%"><img src="https://github.com/user-attachments/assets/5d1c6ffd-b3f7-4947-a837-0ec74e11ce80" alt="Perfil do Usuário"></td>
     </tr>
   </table>
-  <p><i>Capturas de tela demonstrando a Home, o sistema de filtros, o Visualizador de Código e o Perfil do Desenvolvedor.</i></p>
+  <p><i>Capturas de tela demonstrando o sistema.</i></p>
 </div>
 
 ---
